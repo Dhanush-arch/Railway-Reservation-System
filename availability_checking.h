@@ -1,0 +1,1 @@
+extern int check_availability(booking *b,int total_seats);
